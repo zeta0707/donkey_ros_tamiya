@@ -1,6 +1,6 @@
 # ROS1 Donkey(제시카)
 
-## Tamiy RCCar with ROS Molodic + Donkeycar!!
+## Tamiya RCCar with ROS Molodic + Donkeycar!!
 
 로드밸런스팀 김수영씨 아래 코드를 가져와서 수정해서 만들고 있습니다.
 
