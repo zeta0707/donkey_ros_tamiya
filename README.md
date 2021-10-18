@@ -6,12 +6,6 @@
 
 https://github.com/Road-Balance/donkey_ros
 
-<p align="center">
-    <img src="./Images/joy_control.gif" width="400" />
-    <img src="./Images/keyboard_control.gif" width="400" />
-    <img src="./Images/blob_tracking.gif" width="400" />
-    <img src="./Images/yolo_control.gif" width="400" />
-</p>
 
 There's Notion Lecture Notes and Youtube video's about this project. 
 But, It's written in Korean. Anyway, Here's the link
@@ -21,7 +15,7 @@ But, It's written in Korean. Anyway, Here's the link
 
 ## Tested System information
 
-**Jetson Nano 2GB + Pi Camera V2.x**
+**Jetson Nano 2GB + Pi Camera V2.1 + Waveshare MotorHat**
 
 * Ubuntu 18.04
 * ROS Melodic
